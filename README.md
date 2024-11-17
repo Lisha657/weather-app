@@ -2,4 +2,4 @@
 
 A website to check the waether of city.
 
-weather app(https://github.com/user-attachments/assets/4bebd97c-09a4-4bed-bbe8-bc94504874e3)
+https://drive.google.com/file/d/1-1ameOd2CwzIE7Vj_zzHUpb4Ulbp8NJL/view?usp=sharing
